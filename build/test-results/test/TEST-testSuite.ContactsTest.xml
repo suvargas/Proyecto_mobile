@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuite.ContactsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-19T21:07:51" hostname="LAPTOP-7JVNM00Q" time="29.837">
+  <properties/>
+  <testcase name="createNewTaskTest()" classname="testSuite.ContactsTest" time="29.837"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
